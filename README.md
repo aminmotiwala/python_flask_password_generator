@@ -2,7 +2,7 @@
 
 This is a Flask web application that generates and displays random passwords. The main page of the app shows the generated password, and you can refresh the page to get a new password. Additionally, clicking on the displayed password will copy it to the clipboard.
 
-![Flask Password Generator Screenshot](screenshot.png)
+![Flask Password Generator Screenshot](https://github.com/aminmotiwala/python_flask_password_generator/blob/main/Screenshot.png?raw=true)
 
 
 ## Getting Started
